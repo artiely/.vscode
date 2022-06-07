@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "antfu.iconify",
+    "antfu.unocss",
+    "antfu.vite",
+    "csstools.postcss",
+    "dbaeumer.vscode-eslint",
+    "johnsoncodehk.volar",
+    "lokalise.i18n-ally",
+    "formulahendry.auto-close-tag",
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "wix.vscode-import-cost",
+    "kisstkondoros.vscode-gutter-preview",
+    "sburg.vscode-javascript-booster",
+    "ms-vscode.vscode-typescript-tslint-plugin"
+  ]
+}
