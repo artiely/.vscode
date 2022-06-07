@@ -1,0 +1,33 @@
+{
+  "cSpell.words": [
+    "antfu",
+    "demi",
+    "iconify",
+    "imsize",
+    "intlify",
+    "jpegtran",
+    "Multiquote",
+    "pinia",
+    "pnpm",
+    "unocss",
+    "unplugin",
+    "Vite",
+    "vitejs",
+    "Vitesse",
+    "vitest",
+    "vueuse"
+  ],
+  "i18n-ally.sourceLanguage": "zh-CN",
+  "i18n-ally.keystyle": "nested",
+  "i18n-ally.localesPaths": "locales",
+  "i18n-ally.sortKeys": true,
+  "prettier.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+  },
+  "files.associations": {
+    "*.css": "postcss",
+  },
+  "editor.formatOnSave": false,
+  "git.ignoreLimitWarning": true,
+}
